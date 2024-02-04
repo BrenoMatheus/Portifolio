@@ -1,0 +1,32 @@
+{
+    "translation": {
+        "Skills and Tools":"Habilidades e Ferramentas",
+        "Others":"Outros",
+        "All":"Todos",
+        "My Projects":"Meus Projetos",
+        "About-me-describe":"Saudações, e seja bem-vindo ao meu perfil profissional. É com grande entusiasmo que expresso minha profunda dedicação ao campo do desenvolvimento de software. Meu objetivo principal é refinar e expandir constantemente meu leque de competências técnicas e comportamentais, visando à criação de soluções inovadoras e de alto desempenho.",
+        "About-me":"Sobre mim",
+        "Hi":"Olá, sou o",
+        "Hi-end":"seu próximo desenvolvedor Fullstack.",
+        "slogan-start":"Codificando",
+        "slogan-mid":" Sonhos ",
+        "slogan-end":"em realidades digitais.",
+        "Contact-me":"Contate-me",
+        "Send":"Enviar",
+        "About":"Sobre",
+        "Contact":"Contato",
+        "Projects":"Projetos",
+        "Skills":"Habilidades",
+        "no-project":"Não há projetos nesta categoria, ainda...",
+        "title_project_system-OS-front":"Sitema de OS (Frontend)",
+        "Describe_project_system-OS-front":"Sistema de Registro e Controle de Ordem de Serviço utilizando as tecnologias React, TypeScript e Jest. Este sistema permite gerenciar e acompanhar ordens de serviço dentro de uma empresa, proporcionando organização, otimização e automação do processo de execução dos serviços.",
+        "title_project_system-OS-back":"Sitema de OS (Backend)",
+        "Describe_project_system-OS-back":"O backend do Sistema de Registro e Controle de Ordem de Serviço é construído com Node.js, TypeScript, PostgreSQL e Jest. Ele gerencia a lógica de negócios, o armazenamento de dados no PostgreSQL e é testado com Jest para garantir sua confiabilidade.",
+        "title_project_system-optical":"Sitema de otica",
+        "Describe_project_system-optical":"O sistema de ótica, desenvolvido com PHP, Laravel, Bootstrap e MySQL, gerencia registros de pacientes e clientes, estoque e vendas. Utiliza o Laravel MVC para organizar dados e visualização com Bootstrap, incluindo funcionalidades de registro de vendas detalhadas, relatórios de desempenho e análise de estoque. Sua arquitetura moderna e interface responsiva agilizam operações e otimizam a gestão ótica, proporcionando uma solução abrangente e eficaz para o setor.",
+        "title_project_register-client":"Registro de Clientes",
+        "Describe_project_register-client":"Um sistema simples de registro de clientes utilizando Node.js, React, Vite e TypeScript. Permite o registro, exibição e gerenciamento de clientes, com validação básica de entrada. Oferece uma solução ágil e robusta para necessidades básicas de registro de clientes."
+    
+    
+    }
+}

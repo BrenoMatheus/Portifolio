@@ -1,0 +1,31 @@
+{
+    "translation": {
+        "Skills and Tools":"Skills and Tools",
+        "Others":"Others",
+        "All":"All",
+        "My Projects":"My Projects",
+        "About-me-describe":"Greetings, and welcome to my professional profile. It is with great enthusiasm that I express my deep dedication to the field of software development. My main goal is to continuously refine and expand my range of technical and behavioral skills, aiming at the creation of innovative and high-performance solutions.",
+        "About-me":"About Me",
+        "Hi":"Hi, I'm",
+        "Hi-end":"your next Fullstack developer.",
+        "slogan-start":"Coding",
+        "slogan-mid":" DREAMS ",
+        "slogan-end":"into digital realities.",
+        "Contact-me":"Contact Me",
+        "Send":"Send",
+        "About":"About",
+        "Contact":"Contact",
+        "Projects":"Projects",
+        "Skills":"Skills",
+        "no-project":"There are no projects in this category yet...",
+        "title_project_system-OS-front":"Order System (Frontend)",
+        "Describe_project_system-OS-front":"Service Order Registration and Control System using React, TypeScript, and Jest technologies. This system allows for the management and tracking of service orders within a company, providing organization, optimization, and automation of the service execution process.",
+        "title_project_system-OS-back":"Order System (Backend)",
+        "Describe_project_system-OS-back":"The backend of the Service Order Registration and Control System is built with Node.js, TypeScript, PostgreSQL, and Jest. It handles business logic, data storage in PostgreSQL, and is tested with Jest to ensure reliability.",
+        "title_project_system-optical":"Optical of System",
+        "Describe_project_system-optical":"The optical system, developed with PHP, Laravel, Bootstrap, and MySQL, manages patient and client records, inventory, and sales. It uses Laravel MVC to organize data and Bootstrap for visualization, offering features such as detailed sales registration, performance report generation, and inventory analysis. Its modern architecture and responsive interface streamline daily operations and optimize optical management, providing a comprehensive and effective solution for the sector.",
+        "title_project_register-client":"Register of Clients",
+        "Describe_project_register-client":"A simple customer registration system using Node.js, React, Vite, and TypeScript. It allows for registering, displaying, and managing customers, with basic input validation. Provides an agile and robust solution for basic customer registration needs."
+    
+    }
+}
