@@ -20,7 +20,7 @@ export const Projects = () => {
       describe:
         t('Describe_project_system-OS-front'),
       status: 'Em contrução',
-      url_project:'https://systemos-94uz.onrender.com/pagina-inicial',
+      url_project:'https://systemos-94uz.onrender.com',
       url_repositoy:'https://github.com/BrenoMatheus/Sistema-os-frontend',
       url_img:'./projects/system-OS.png',
       type: 'frontend',
@@ -44,7 +44,7 @@ export const Projects = () => {
       describe:
         t('Describe_project_system-OS-back'),
       status: 'Em contrução',
-      url_project:'https://systemos-94uz.onrender.com/pagina-inicial',
+      url_project:'https://systemos-94uz.onrender.com',
       url_repositoy:'https://github.com/BrenoMatheus/Sistema-OS-backend',
       url_img:'./projects/system-OS.png',
       type: 'backend',
