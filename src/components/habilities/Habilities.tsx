@@ -30,7 +30,7 @@ export const Habilities = () => {
         },
         {
           name: 'GoLang',
-          url: './icons/nestjs.webp',
+          url: './icons/golang.png',
         },
         {
           name: 'RabbitMQ',

@@ -19,7 +19,7 @@
         "Skills":"Habilidades",
         "no-project":"Não há projetos nesta categoria, ainda...",
         "title_project_code-commerce":"Code Commerce",
-        "Describe_project_code-commerce":"E-commerce avançado utilizando Node.js, ReactJS, NestJS, NextJS, e TypeScript para front-end e back-end, com GoLang para microserviços de alta performance. Utiliza MySQL para armazenamento de dados, RabbitMQ para mensageria assíncrona, garantindo escalabilidade, desempenho e uma experiência de usuário fluida.",
+        "Describe_project_code-commerce":"(Imersão FullCycle) E-commerce avançado utilizando Node.js, ReactJS, NestJS, NextJS, e TypeScript para front-end e back-end, com GoLang para microserviços de alta performance. Utiliza MySQL para armazenamento de dados, RabbitMQ para mensageria assíncrona, garantindo escalabilidade, desempenho e uma experiência de usuário fluida.",
         "title_project_system-OS-front":"Sitema de OS (Frontend)",
         "Describe_project_system-OS-front":"Sistema de Registro e Controle de Ordem de Serviço utilizando as tecnologias React, TypeScript e Jest. Este sistema permite gerenciar e acompanhar ordens de serviço dentro de uma empresa, proporcionando organização, otimização e automação do processo de execução dos serviços.",
         "title_project_system-OS-back":"Sitema de OS (Backend)",

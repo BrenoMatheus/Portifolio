@@ -21,7 +21,7 @@
         "title_project_system-OS-front":"Order System (Frontend)",
         "Describe_project_system-OS-front":"Service Order Registration and Control System using React, TypeScript, and Jest technologies. This system allows for the management and tracking of service orders within a company, providing organization, optimization, and automation of the service execution process.",
         "title_project_code-commerce":"Code Commerce",
-        "Describe_project_code-commerce":"Advanced e-commerce platform using Node.js, ReactJS, NestJS, NextJS, and TypeScript for front-end and back-end, with GoLang for high-performance microservices. Uses MySQL for data storage and RabbitMQ for asynchronous messaging, ensuring scalability, performance, and a seamless user experience.",
+        "Describe_project_code-commerce":"(Immersion FullCycle) Advanced e-commerce platform using Node.js, ReactJS, NestJS, NextJS, and TypeScript for front-end and back-end, with GoLang for high-performance microservices. Uses MySQL for data storage and RabbitMQ for asynchronous messaging, ensuring scalability, performance, and a seamless user experience.",
         "title_project_system-OS-back":"Order System (Backend)",
         "Describe_project_system-OS-back":"The backend of the Service Order Registration and Control System is built with Node.js, TypeScript, PostgreSQL, and Jest. It handles business logic, data storage in PostgreSQL, and is tested with Jest to ensure reliability.",
         "title_project_system-optical":"Optical of System",

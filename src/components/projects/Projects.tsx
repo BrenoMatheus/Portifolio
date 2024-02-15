@@ -16,12 +16,12 @@ export const Projects = () => {
   const { t } = useTranslation();
   const projects = [
     {
-      title: t('title_project_system-optical'),
+      title: t('title_project_code-commerce'),
       describe:
-        t('Describe_project_system-optical'),
+        t('Describe_project_code-commerce'),
       status: 'Concluído',
-      url_repositoy:'https://github.com/BrenoMatheus/Optical-System',
-      url_img:'CodeComerce.png',
+      url_repositoy:'https://github.com/devfullcycle/imersao17',
+      url_img:'./projects/CodeComerce.png',
       type: 'fullstack',
       technologies: [
         {
@@ -42,7 +42,7 @@ export const Projects = () => {
         },
         {
           name: 'GoLang',
-          url: './icons/nestjs.webp',
+          url: './icons/golang.png',
         },
         {
           name: 'RabbitMQ',
