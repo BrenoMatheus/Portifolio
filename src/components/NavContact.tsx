@@ -15,7 +15,7 @@ export const NavContact = () => {
       <a href="https://wa.me//5511945398709?text=Ola,%20tenho%20interesse%20em%20trabalhar%20com%20você" title='WhatsApp'>
         <IonIcon name="logo-whatsApp" className="hover:scale-125 hover:duration-200 delay-200 hover:bg-green-600 rounded-md hover:text-white text-gray-500 grayscale hover:grayscale-0" />
       </a>
-      <a href="https://drive.google.com/file/d/17aW5z45iclBNlmk9uy3Pa4RX_wpCM2xN/view?usp=drive_link" title='Download Curriculum'>
+      <a href="https://drive.google.com/file/d/1Uv7D2B37xdgiwvTFuVrXFOZ8Y_KmVgLz/view?usp=sharing" title='Download Curriculum'>
         <IonIcon name="document" className="animate-bounce text-orange-700 grayscale hover:grayscale-0" />
       </a>
     </div>

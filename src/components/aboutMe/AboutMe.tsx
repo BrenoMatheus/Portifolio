@@ -23,7 +23,7 @@ export const AboutMe = () => {
           <div data-aos='slide-left' className="flex-auto">
             <img
               className="hover:scale-125 hover:duration-200 delay-200 h-40 rounded-full mx-auto md:w-48 md:h-auto"
-              src="./breno.jpeg"
+              src="./aboutme/breno.jpeg"
               alt="Breno"
             />
           </div>
