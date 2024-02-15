@@ -21,8 +21,20 @@ export const Habilities = () => {
           url: './icons/nodejs.png',
         },
         {
+          name: 'Nest JS',
+          url: './icons/nestjs.webp',
+        },
+        {
           name: 'Laravel',
           url: './icons/laravel-icon.png',
+        },
+        {
+          name: 'GoLang',
+          url: './icons/nestjs.webp',
+        },
+        {
+          name: 'RabbitMQ',
+          url: './icons/rabbitmq.svg',
         },
         {
           name: 'MySQL',
@@ -41,6 +53,10 @@ export const Habilities = () => {
           url: './icons/knex.png',
         },
         {
+          name: 'TypeORM',
+          url: './icons/typeorm.svg',
+        },
+        {
           name: 'JSON Web Token',
           url: './icons/jwt-icon.png',
         },
@@ -56,6 +72,10 @@ export const Habilities = () => {
         {
           name: 'JavaScript',
           url: './icons/frontend/js.png',
+        },
+        {
+          name: 'Next JS',
+          url: './icons/frontend/nextjs.webp',
         },
         {
           name: 'TypeScript',

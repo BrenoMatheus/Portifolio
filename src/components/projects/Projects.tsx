@@ -16,6 +16,53 @@ export const Projects = () => {
   const { t } = useTranslation();
   const projects = [
     {
+      title: t('title_project_system-optical'),
+      describe:
+        t('Describe_project_system-optical'),
+      status: 'Concluído',
+      url_repositoy:'https://github.com/BrenoMatheus/Optical-System',
+      url_img:'CodeComerce.png',
+      type: 'fullstack',
+      technologies: [
+        {
+          name: 'Next JS',
+          url: './icons/frontend/nextjs.webp',
+        },
+        {
+          name: 'Node JS',
+          url: './icons/nodejs.png',
+        },
+        {
+          name: 'Nest JS',
+          url: './icons/nestjs.webp',
+        },
+        {
+          name: 'TypeScript',
+          url: './icons/frontend/typescript.png',
+        },
+        {
+          name: 'GoLang',
+          url: './icons/nestjs.webp',
+        },
+        {
+          name: 'RabbitMQ',
+          url: './icons/rabbitmq.svg',
+        },
+        {
+          name: 'TypeORM',
+          url: './icons/typeorm.svg',
+        },
+        {
+          name: 'MySQL',
+          url: './icons/mysql.png',
+        },
+        {
+          name: 'Docker',
+          url: './icons/others/docker-icon.png',
+        },
+      ],
+    },
+    {
       title: t('title_project_system-OS-front'),
       describe:
         t('Describe_project_system-OS-front'),
