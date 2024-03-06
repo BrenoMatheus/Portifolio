@@ -146,6 +146,41 @@ export const Projects = () => {
       ],
     },
     {
+      title: t('title_project_system-stock-sale"'),
+      describe:
+        t('Describe_project_system-stock-sale'),
+      status: 'Concluído',
+      url_repositoy:'https://github.com/BrenoMatheus/Sistema-Estoque-Venda',
+      url_img:'./projects/system-EV.png',
+      type: 'fullstack',
+      technologies: [
+        {
+          name: 'Laravel',
+          url: './icons/laravel-icon.png',
+        },
+        {
+          name: 'PostgreSQL',
+          url: './icons/postgresql.png',
+        },
+        {
+          name: 'Vue JS',
+          url: './icons/frontend/nextjs.webp',
+        },
+        {
+          name: 'Tailwind',
+          url: './icons/frontend/tailwind.png',
+        },
+        {
+          name: 'JavaScript',
+          url: './icons/frontend/js.png',
+        },
+        {
+          name: 'Docker',
+          url: './icons/others/docker-icon.png',
+        },
+      ],
+    },
+    {
       title: t('title_project_register-client'),
       describe:
         t('Describe_project_register-client'),

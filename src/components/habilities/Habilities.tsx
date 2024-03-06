@@ -93,6 +93,10 @@ export const Habilities = () => {
           name: 'Bootstrap',
           url: './icons/frontend/bootstrap.webp',
         },
+        {
+          name: 'VueJS',
+          url: './icons/frontend/vue.svg',
+        },
       ],
     },
     {

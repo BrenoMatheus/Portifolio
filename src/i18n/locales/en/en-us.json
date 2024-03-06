@@ -27,7 +27,10 @@
         "title_project_system-optical":"Optical of System",
         "Describe_project_system-optical":"The optical system, developed with PHP, Laravel, Bootstrap, and MySQL, manages patient and client records, inventory, and sales. It uses Laravel MVC to organize data and Bootstrap for visualization, offering features such as detailed sales registration, performance report generation, and inventory analysis. Its modern architecture and responsive interface streamline daily operations and optimize optical management, providing a comprehensive and effective solution for the sector.",
         "title_project_register-client":"Register of Clients",
-        "Describe_project_register-client":"A simple customer registration system using Node.js, React, Vite, and TypeScript. It allows for registering, displaying, and managing customers, with basic input validation. Provides an agile and robust solution for basic customer registration needs."
+        "Describe_project_register-client":"A simple customer registration system using Node.js, React, Vite, and TypeScript. It allows for registering, displaying, and managing customers, with basic input validation. Provides an agile and robust solution for basic customer registration needs.",
+        "title_project_system-stock-sale":"System of Stock and Sale",
+        "Describe_project_system-stock-sale":"The inventory and sales control system, developed with PHP, Laravel, Vue, TailwindCss, and PostgreSQL, manages sales, purchases, and customers, suppliers, and inventory records. Including functionalities for detailed sales registration, performance reports, and stock analysis. Its modern architecture and responsive interface streamline operations and optimize your business management, providing a comprehensive and effective solution for the sector."
+        
     
     }
 }

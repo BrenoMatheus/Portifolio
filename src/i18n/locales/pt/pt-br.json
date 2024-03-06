@@ -27,8 +27,10 @@
         "title_project_system-optical":"Sitema de otica",
         "Describe_project_system-optical":"O sistema de ótica, desenvolvido com PHP, Laravel, Bootstrap e MySQL, gerencia registros de pacientes e clientes, estoque e vendas. Utiliza o Laravel MVC para organizar dados e visualização com Bootstrap, incluindo funcionalidades de registro de vendas detalhadas, relatórios de desempenho e análise de estoque. Sua arquitetura moderna e interface responsiva agilizam operações e otimizam a gestão ótica, proporcionando uma solução abrangente e eficaz para o setor.",
         "title_project_register-client":"Registro de Clientes",
-        "Describe_project_register-client":"Um sistema simples de registro de clientes utilizando Node.js, React, Vite e TypeScript. Permite o registro, exibição e gerenciamento de clientes, com validação básica de entrada. Oferece uma solução ágil e robusta para necessidades básicas de registro de clientes."
-    
+        "Describe_project_register-client":"Um sistema simples de registro de clientes utilizando Node.js, React, Vite e TypeScript. Permite o registro, exibição e gerenciamento de clientes, com validação básica de entrada. Oferece uma solução ágil e robusta para necessidades básicas de registro de clientes.",
+        "title_project_system-stock-sale":"Sitema de Estoque e Venda",
+        "Describe_project_system-stock-sale":"O sistema de controle de estoque e venda, desenvolvido com PHP, Laravel, Vue, TailwindCss e PostgreSQL, gerencia registros de vendas, compras e clientes, fornecedores e estoque. Incluindo funcionalidades de registro de vendas detalhadas, relatórios de desempenho e análise de estoque. Sua arquitetura moderna e interface responsiva agilizam operações e otimizam a gestão do seu negócio, proporcionando uma solução abrangente e eficaz para o setor."
+        
     
     }
 }
