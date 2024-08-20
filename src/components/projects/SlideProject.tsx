@@ -31,17 +31,13 @@ interface ProjectsListProps {
 }
 
 export default function SlideProjects({ projects, filter }: ProjectsListProps) {
+
+  const { t, i18n } = useTranslation();
   const [listProjects, setListProjects] = useState(projects);
   const [filterType, setFilterType] = useState('all');
-  const { t } = useTranslation();
-
-  if (filter !== filterType && filter !== '') {
-    setFilterType(filter);
-  }
 
   useEffect(() => {
-    // Atualiza o título do documento usando a API do browser
-    if (filter !== filterType) {
+    if (filter !== filterType && filter !== '') {
       setFilterType(filter);
     } else {
       if (filterType === 'all') {
@@ -53,7 +49,15 @@ export default function SlideProjects({ projects, filter }: ProjectsListProps) {
         setListProjects(filterProject);
       }
     }
-  }, [filter]);
+  }, [filter, filterType, projects]);
+
+  // Atualiza a lista de projetos quando o idioma muda
+  useEffect(() => {
+    setListProjects(projects);
+  }, [i18n.language, projects]);
+
+
+
 
   return (
     <div className="mt-5">
